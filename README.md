@@ -10,5 +10,6 @@ This code is tested on [Windows 10,PyQt5==5.15.1,python==3.6].
 * track_data:Target tracking example
 * track_done:Target tracking results
 # Working
-After configuring the environment, click to run “main_GUI.py”, the visual interface will pop up
-That's all,help you enjoy!
+After configuring the environment, click to run “main_GUI.py”, the visual interface will pop up.
+
+# That's all,help you enjoy!
